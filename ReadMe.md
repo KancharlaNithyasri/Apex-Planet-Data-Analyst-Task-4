@@ -13,8 +13,8 @@ The core strategic objective is to evaluate purchasing behaviors between primary
 ## 🧪 Statistical Methodology & Hypothesis Setup
 To evaluate the continuous numerical metric (`Sales`) across distinct customer categories without assuming equal variances or identical sample sizes, a **Welch’s Two-Sample Independent T-Test** was applied.
 
-* **Null Hypothesis ($H_0$):** There is no significant difference in the true mean sales value per order between the Consumer segment and the Corporate segment (mu_{{Consumer}} = mu_{{Corporate}}).
-* **Alternative Hypothesis ($H_a$):** A statistically significant difference exists between the true mean sales value of the two segments (mu_{{Consumer}} -\mu_{{Corporate}}).
+* **Null Hypothesis ($H_0$):** There is no significant difference in the true mean sales value per order between the Consumer segment and the Corporate segment ($\mu_{\text{Consumer}} = \mu_{\text{Corporate}}$).
+* **Alternative Hypothesis ($H_a$):** A statistically significant difference exists between the true mean sales value of the two segments ($\mu_{\text{Consumer}} \neq \mu_{\text{Corporate}}$).
 * **Significance Threshold ($\alpha$):** 0.05 ($95\%$ Confidence Level)
 
 ---
