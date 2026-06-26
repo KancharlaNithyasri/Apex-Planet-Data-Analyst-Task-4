@@ -43,6 +43,6 @@ Statistically, the average individual transaction size between a standard consum
 
 
 ## 📁 Repository Deliverables
-# Statistical_Validation.ipynb - Python notebook containing character encoding corrections, segment isolation, and Welch's Two-Sample Independent T-Test execution logic.
-# Executive_Storytelling.pdf - The finalized 8-slide presentation.
-# PROJECT DATASTORY NARRATIVE.doc
+    Statistical_Validation.ipynb - Python notebook containing character encoding corrections, segment isolation, and Welch's Two-Sample Independent T-Test execution logic.
+    Executive_Storytelling.pdf - The finalized 8-slide presentation.
+    PROJECT DATASTORY NARRATIVE.doc
